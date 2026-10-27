@@ -1,0 +1,6 @@
+{
+  "name": "StockIt Research & Qualification Workbench",
+  "description": "Indian equity research, Phase 12 market data qualification, 46-feature causal pipeline, and expanding walk-forward evaluation workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
